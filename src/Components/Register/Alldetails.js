@@ -188,7 +188,7 @@ const Alldetails = () => {
                         </tbody>
                     </table>
                     <button className="text-white mt-5 rounded-2xl bg-blue-500 hover:bg-blue-800 px-4 py-1">
-                        <Link to={"/EditUnivdetails"}>Add University</Link>
+                        <Link to={"/Register"}>Add University</Link>
                     </button>
                 </div>
             </div>
